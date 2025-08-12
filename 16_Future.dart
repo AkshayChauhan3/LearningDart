@@ -6,7 +6,7 @@ void main() async {
   String food = await orderFood(); //here we will wait for result proceeses after this start processing simultaneously
   // procces after it done and stay in queue like when we will get output of await after we will give output...
   // so async and await provide us like structured way to do things even if result is waiting 
-  // if we use .then then it will not hold output in queue it directly give output in unstructured way...
+  // if we use .then then it will not hold output in queue it directly give output in unstructured way...z
   print(food);
   print("Bill Proceessing!!!");
   print("how will you pay your bill sir ?");
