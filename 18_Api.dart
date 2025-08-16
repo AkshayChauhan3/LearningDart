@@ -1,5 +1,5 @@
 // use dart pad 
-mport 'package:http/http.dart' as http; // help kare http method use karava get,post etc
+import 'package:http/http.dart' as http; // help kare http method use karava get,post etc
 import 'dart:convert'; // jsondecode no use kari sakay 
 // json decode thi aapde json type na data ne dart type na data ma convert kari sakisu 
 // jason ==> map,list etc
